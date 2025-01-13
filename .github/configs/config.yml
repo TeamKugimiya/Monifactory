@@ -1,10 +1,10 @@
 # 模組包名稱
-modpack-name: Modpack-Template
+modpack-name: Monifactory
 
 # 模組包專案設定（自動更新通知）
 # 如果 Project ID 為空將會停止檢查
-modpack-project-id:
-modpack-file-id: 
+modpack-project-id: 1004602
+modpack-file-id: 6082513
 
 # 用戶端 - 複製陣列
 client-patch:
@@ -15,5 +15,3 @@ client-patch:
 
 # 伺服器 - 複製陣列（為空將會停止產生伺服器版）
 server-patch:
-  - "config"
-  - "LICENSE"
