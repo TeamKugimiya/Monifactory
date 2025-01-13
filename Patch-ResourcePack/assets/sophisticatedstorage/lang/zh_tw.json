@@ -1,0 +1,31 @@
+{
+  "block.sophisticateds >rage.iron_barrel": "%s青銅木桶",
+  "block.sophisticateds >rage.gold_barrel": "%s鋼木桶",
+  "block.sophisticateds >rage.diamond_barrel": "%s鋁木桶",
+  "block.sophisticateds >rage.netherite_barrel": "%s不銹鋼木桶",
+
+  "block.sophisticateds >rage.iron_chest": "%s青銅儲物箱",
+  "block.sophisticateds >rage.gold_chest": "%s鋼儲物箱",
+  "block.sophisticateds >rage.diamond_chest": "%s鋁儲物箱",
+  "block.sophisticateds >rage.netherite_chest": "%s不銹鋼儲物箱",
+
+  "item.sophisticateds >rage.iron_shulker_box": "青銅界伏盒",
+  "block.sophisticateds >rage.iron_shulker_box": "青銅界伏盒",
+  "item.sophisticateds >rage.gold_shulker_box": "鋼界伏盒",
+  "block.sophisticateds >rage.gold_shulker_box": "鋼界伏盒",
+  "item.sophisticateds >rage.diamond_shulker_box": "鋁界伏盒",
+  "block.sophisticateds >rage.diamond_shulker_box": "鋁界伏盒",
+  "item.sophisticateds >rage.netherite_shulker_box": "不銹鋼界伏盒",
+  "block.sophisticateds >rage.netherite_shulker_box": "不銹鋼界伏盒",
+
+  "item.sophisticateds >rage.basic_ >_iron_tier_upgrade": "基礎 > 青銅升級",
+  "item.sophisticateds >rage.basic_ >_gold_tier_upgrade": "基礎 > 鋼升級",
+  "item.sophisticateds >rage.basic_ >_diamond_tier_upgrade": "基礎 > 鋁升級",
+  "item.sophisticateds >rage.basic_ >_netherite_tier_upgrade": "基礎 > 不銹鋼升級",
+  "item.sophisticateds >rage.iron_ >_gold_tier_upgrade": "青銅 > 鋼升級",
+  "item.sophisticateds >rage.iron_ >_diamond_tier_upgrade": "青銅 > 鋁升級",
+  "item.sophisticateds >rage.iron_ >_netherite_tier_upgrade": "青銅 > 不銹鋼升級",
+  "item.sophisticateds >rage.gold_ >_diamond_tier_upgrade": "鋼 > 鋁升級",
+  "item.sophisticateds >rage.gold_ >_netherite_tier_upgrade": "鋼 > 不銹鋼升級",
+  "item.sophisticateds >rage.diamond_ >_netherite_tier_upgrade": "鋁 > 不銹鋼升級"
+}

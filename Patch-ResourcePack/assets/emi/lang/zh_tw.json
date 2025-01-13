@@ -1,0 +1,22 @@
+{
+  "tag.item.gtceu.circuits": "電路",
+  "tag.item.gtceu.circuits.ulv": "ULV 電路",
+  "tag.item.gtceu.circuits.lv": "LV 電路",
+  "tag.item.gtceu.circuits.mv": "MV 電路",
+  "tag.item.gtceu.circuits.hv": "HV 電路",
+  "tag.item.gtceu.circuits.ev": "EV 電路",
+  "tag.item.gtceu.circuits.iv": "IV 電路",
+  "tag.item.gtceu.circuits.luv": "LuV 電路",
+  "tag.item.gtceu.circuits.zpm": "ZPM 電路",
+  "tag.item.gtceu.circuits.uv": "UV 電路",
+  "tag.item.gtceu.circuits.uhv": "UHV 電路",
+  "tag.item.gtceu.circuits.uev": "UEV 電路",
+  "tag.item.gtceu.circuits.uiv": "UIV 電路",
+  "tag.item.gtceu.circuits.universal": "通用電路",
+  "tag.item.moni_quest.backpack": "背包",
+  "tag.item.moni.output_bus": "物品輸出匯流排",
+  "tag.item.moni.input_bus": "物品輸入匯流排",
+  "tag.item.moni.input_hatch": "流體輸入倉",
+  "tag.item.moni.output_hatch": "流體輸出倉",
+  "tag.item.moni.coins": "硬幣"
+}

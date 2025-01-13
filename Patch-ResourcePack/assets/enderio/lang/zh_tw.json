@@ -1,0 +1,12 @@
+{
+  "comment_monifactory": "Monifactory 自訂內容",
+  "item.enderio.conductive_conduit": "導電鐵能量導管",
+  "item.enderio.energetic_conduit": "充能合金能量導管",
+  "item.enderio.endsteel_conduit": "終界鋼能量導管",
+  "item.enderio.lumium_conduit": "流明能量導管",
+  "item.enderio.signalum_conduit": "信素能量導管",
+  "item.enderio.vibrant_conduit": "振動合金能量導管",
+  "item.enderio.enderium_conduit": "終界合金能量導管",
+  "item.enderio.cryolobus_conduit": "伏聆合金能量導管",
+  "item.enderio.sculk_superconductor_conduit": "伏聆超導體能量導管"
+}

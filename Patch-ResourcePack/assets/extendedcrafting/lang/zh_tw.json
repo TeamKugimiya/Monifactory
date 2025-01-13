@@ -1,0 +1,25 @@
+{
+  "comment_monifactory": "Monifactory 自訂內容",
+  "block.extendedcrafting.flux_alternator": "伏聆塔",
+  "block.extendedcrafting.flux_crafter": "伏聆充能器",
+  "block.extendedcrafting.auto_flux_crafter": "伏聆充能器",
+  "container.extendedcrafting.flux_alternator": "伏聆塔",
+  "container.extendedcrafting.flux_crafter": "伏聆充能",
+  "jei.category.extendedcrafting.flux_crafting": "伏聆充能",
+  "config.jade.plugin_extendedcrafting.flux_crafter": "伏聆充能器資訊",
+  "book.extendedcrafting.entry.flux_crafting": "伏聆充能",
+  "book.extendedcrafting.entry.flux_crafting.page.1": "伏聆充能是一種使用「等待」能量，以及「電力」能量的合成方式。該設備由一個伏聆充能器，以及數個伏聆塔所組成。充能器會從周圍的伏聆塔汲取能量。伏聆塔擺放的數量越多，其合成的速度就越快。",
+  "book.extendedcrafting.entry.flux_crafting.page.2": "伏聆塔可被放置在距離伏聆充能器，$(bold)3 格方塊$()內的任何地方。向上疊高或向下堆放也都可以！",
+
+  "comment_fork": "Fork 新增內容",
+  "itemGroup.extendedcrafting": "合成擴展：Monifactory 版",
+  "block.extendedcrafting.epic_table": "史詩工作台",
+  "block.extendedcrafting.epic_auto_table": "史詩自動工作台",
+  "item.extendedcrafting.epic_catalyst": "史詩催化劑",
+  "item.extendedcrafting.epic_component": "史詩元件",
+  "tooltip.extendedcrafting.shapeless": "無序配方",
+  "container.extendedcrafting.epic_table": "史詩合成",
+  "jei.category.extendedcrafting.epic_crafting": "史詩合成",
+  "config.jade.plugin_extendedcrafting.epic_table": "史詩工作台資訊",
+  "config.jade.plugin_extendedcrafting.epic_auto_table": "史詩自動工作台資訊"
+}

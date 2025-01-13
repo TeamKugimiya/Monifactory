@@ -1,0 +1,6 @@
+{
+  "biome.javd.void": "虛空",
+  "block.javd.portal_block": "虛空傳送門",
+  "javd.invalid.pos": "無法找到有效的傳送門位置",
+  "javd.invalid.world": "無法找到世界「%s」"
+}
