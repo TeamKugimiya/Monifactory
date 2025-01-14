@@ -1,0 +1,26 @@
+{
+  "comment_untranslateditems": "此語言檔案需要安裝《Untranslated Items》模組，才能正常載入。",
+
+  "comment_hammerlib": "模組原生語言檔案",
+  "comment_language": "Hammer Lib Tradionnal Chinese translations",
+
+  "itemGroup.hammerlib": "HammerLib",
+  "config.jade.plugin_hammerlib.root": "HammerLib",
+
+  "block.hammerlib.test_machine": "測試用機器",
+  "item.hammerlib.wrench": "扳手",
+  "item.hammerlib.gears.wooden": "木製齒輪",
+  "item.hammerlib.gears.stone": "石製齒輪",
+  "item.hammerlib.gears.copper": "銅製齒輪",
+  "item.hammerlib.gears.iron": "鐵製齒輪",
+  "item.hammerlib.gears.gold": "黃金齒輪",
+  "item.hammerlib.gears.diamond": "鑽石齒輪",
+  "item.hammerlib.gears.netherite": "獄髓齒輪",
+
+  "info.hammerlib.material": "合成材料",
+  "info.hammerlib.fluid_uncapped": "%s mB",
+  "info.hammerlib.fluid_capped": "%s / %s mB",
+  "info.hammerlib.empty": "空",
+
+  "key.hammerlib.render_item": "[HammerLib] 繪製 GUI 物品"
+}
