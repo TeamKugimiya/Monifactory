@@ -14,3 +14,6 @@ jobs:
       para_pack_description: "一個簡單的測試用資源包"
     secrets:
       paratranz_token: ${{ secrets.PARATRANZ_TOKEN }}
+      r2_account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      r2_access_key: ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }}
+      r2_secret_key: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
