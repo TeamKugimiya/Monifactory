@@ -1,0 +1,16 @@
+name: ParaR2
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  ParaR2:
+    uses: TeamKugimiya/reusable-workflows/.github/workflows/ModPack-ParaR2.yml@main
+    with:
+      para_project_id: "12756"
+      para_pack_format: "15"
+      para_pack_description: "一個簡單的測試用資源包"
+    secrets:
+      paratranz_token: ${{ secrets.PARATRANZ_TOKEN }}
